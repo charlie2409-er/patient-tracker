@@ -36,7 +36,7 @@ group :development do
 end
 
 group :development, :test do
-  gem 'better_errors', '~> 1.1.0'
+  gem 'better_errors', '~> 2.8.0'
   # Use debugger
   # gem 'debugger', group: [:development, :test]
   gem 'binding_of_caller', '~> 0.7.2'
